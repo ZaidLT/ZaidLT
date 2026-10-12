@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Zaid Lattouf</title>
+  <desc id="desc">AI engineering across agent products, data pipelines and cloud infrastructure.</desc>
+  <rect width="1200" height="320" rx="18" fill="#081526"/>
+  <g stroke="#122841" stroke-width="1" opacity="0.8">
+    <path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200"/>
+    <path d="M80 0V320M160 0V320M240 0V320M320 0V320M400 0V320M480 0V320M560 0V320M640 0V320M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320"/>
+  </g>
+  <path d="M72 244h146l46-54h135l61-92h140l54 61h142l43-38h131" fill="none" stroke="#7AA7FF" stroke-width="3"/>
+  <g fill="#081526" stroke="#FFD18A" stroke-width="3">
+    <circle cx="264" cy="190" r="7"/><circle cx="460" cy="98" r="7"/><circle cx="654" cy="159" r="7"/><circle cx="939" cy="121" r="7"/>
+  </g>
+  <text x="72" y="92" fill="#7AA7FF" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0">AI Engineer</text>
+  <text x="72" y="157" fill="#F4F7FC" font-family="Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Zaid Lattouf</text>
+  <text x="72" y="286" fill="#B5C5D8" font-family="Arial, sans-serif" font-size="19">AI products · data platforms · cloud infrastructure</text>
+</svg>
